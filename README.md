@@ -72,6 +72,7 @@ Affairs and the CIO agreed to develop a request for information (RFI) to solicit
 how to address the above issues from qualified consulting firms to map out a plan to review the eCommerce services offerings (B-Coin, BAAS and other Bazinga’s! e-commerce services) and todetermine the feasibility of implementing an acceptable set of business controls.
 
 Request for Information Terms and Conditions
+
 Bazinga’s! is requesting RFIs from qualified consulting teams to determine how to obtain consulting
 services to assist with recommending business controls for preventing criminal abuse of Bazinga’s! BCoin, BAAS and e-Commerce platforms. In order to evaluate RFIs and to rank consulting teams Jayne Brown, the SVP of Product/Services Development, the SVP of Legal Affairs and the CIO have formed a
 Consultant Selection Committee composed of prominent IT executives from industry. The Consultant
@@ -108,6 +109,7 @@ the property of Bazinga’s! and the company will not be responsible for any cos
 preparation of RFIs or for attending the oral presentation/interview.
 
 Oral Presentation and Interview
+
 The SVP of Product/Services Development, SVP of Legal Affairs and CIO have been assigned by the
 Board of Directors to sit in on the oral presentations. These executives are busy people and thus do not
 have a tolerance for meetings longer than 30 minutes. Therefore, Consulting Teams will be given 20
